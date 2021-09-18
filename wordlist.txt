@@ -1,58 +1,58 @@
-ruby
-python
-tabs
-spaces
-waterfall
 agile
+algorithm
 analog
-digital
-Bandwidth
-byte
-gigabit
-storage
-debugging
-ethernet
-algorithim
-big data
 artificial intelligence
-machine learning
+bandwidth
+big data
+bsd
+byte
 compiler
-transpiler
 concurrent
 container
-virtual machine
 crypto
 data center
+debugging
+digital
 documentation
 domain name
-protocol
-executable
 encryption
+ethernet
+executable
+float
 garbage collection
+gigabit
 hash
 heap
 identifier
 integer
-float
-string
 internet
 kernel
 library
-memory
-modem
-object
-node
-peripheral
-pointer
-parameter
-queue
-recursion
-run time
-software
-tree
-upload
-wi-fi
-windows
 linux
 mac osx
-bsd
+machine learning
+memory
+modem
+node
+object
+parameter
+peripheral
+pointer
+protocol
+python
+queue
+recursion
+ruby
+run time
+software
+spaces
+storage
+string
+tabs
+transpiler
+tree
+upload
+virtual machine
+waterfall
+wi-fi
+windows
