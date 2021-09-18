@@ -1,0 +1,54 @@
+ruby
+python
+tabs
+spaces
+waterfall
+agile
+analog
+digital
+Bandwidth
+byte
+gigabit
+storage
+debugging
+ethernet
+algorithim
+big data
+artificial intelligence
+machine learning
+compiler
+transpiler
+concurrent
+container
+virtual machine
+crypto
+data center
+documentation
+domain name
+protocol
+executable
+encryption
+garbage collection
+hash
+heap
+identifier
+integer
+float
+string
+internet
+kernel
+library
+memory
+modem
+object
+node
+peripheral
+pointer
+parameter
+queue
+recursion
+run time
+software
+tree
+upload
+wi-fi
